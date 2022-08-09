@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VTOLgaurav
 - 👀 I’m interested in UAV
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on UAV Anti-Jamming
 - 📫 How to reach me vtol.gaurav@gmail.com
 
